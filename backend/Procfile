@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT rescue_dogs_rock_nyc_3802.wsgi:application
